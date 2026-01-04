@@ -8,6 +8,10 @@ Ce projet contient trois microservices Spring Boot configurés avec Eureka Serve
 - **service-client** : Microservice de gestion des clients (port 8081)
 - **service-car** : Microservice de gestion des voitures (port 8082)
 
+This screenshot shows the successful build of the **service-client** module in IntelliJ (Java 25), confirming that the project compiles correctly and dependencies are properly configured.
+
+![TP21 Build Successful](21.png)
+
 ## Prérequis
 
 - Java 17+
